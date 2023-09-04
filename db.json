@@ -1,32 +1,18 @@
-{  
-   "tasks": [
+{
+  "tasks": [
     {
       "id": 1,
       "title": " Learn json",
       "description": "this is to learn json",
-      "completed":false,
-       "date":"2020-08-24"
+      "completed": false,
+      "date": "2020-08-24"
     },
-{
+    {
       "id": 2,
       "title": "Learn  saga",
       "description": "this is to learn saga",
-      "completed":false,
-       "date":"2020-08-24"
-    },
-{
-      "id": 3,
-      "title": "Learn  redux",
-      "description": "this is to learn redux",
-      "completed":false,
-       "date":"2020-08-24"
-    },
-{
-      "id": 4,
-      "title": "Learn  react",
-      "description": "this is to learn react",
-      "completed":false,
-       "date":"2020-08-24"
+      "completed": false,
+      "date": "2020-08-24"
     }
   ],
   "posts": [
